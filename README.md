@@ -45,4 +45,6 @@ const userSchema=new mongoose.Schema({
 }
 );
  ```
+Function to check if username and email is available is also in db,
+ db model and function can be found in [user.js](https://github.com/palash018/Scheduler_backend_public/blob/master/models/user.js)
 
